@@ -1,2 +1,2 @@
 # python-challenge
-week 3 python hw
+This is a 'getting used to' python type of project. Pretty straight forward.
